@@ -1,6 +1,8 @@
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" width="36px" alt="🧬"/>
-  Hi, I'm Arnab Mukherjee! <span>👋</span> 🌱
+  Hi, I'm Arnab Mukherjee!
+  <img src="https://raw.githubusercontent.com/ardalanamini/animated-gif-emojis/main/2/Waving%20Hand/3.gif" width="36px" alt="👋"/>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f331.png" width="36px" alt="🌱"/>
 </h1>
 
 <p align="center">
