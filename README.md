@@ -46,14 +46,6 @@ as CSS/HTML animation will not render on github.com. The emoji displays in color
 
 ---
 
-## 🌱 Fun Animation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/4M7IWwQ2C4qKY/giphy.gif" width="250px" alt="DNA Animation"/>
-</p>
-
----
-
 ## 🧬 Connect with Me
 
 <p align="center">
