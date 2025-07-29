@@ -2,10 +2,13 @@
 
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" width="36px" alt="🧬"/>
-  Hi, I'm Arnab Mukherjee!
-  <img src="https://raw.githubusercontent.com/ardalanamini/animated-gif-emojis/main/2/Waving%20Hand/3.gif" width="36px" alt="👋"/>
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f331.png" width="36px" alt="🌱"/>
+  Hi, I'm Arnab Mukherjee! <span>👋</span> 🌱
 </h1>
+
+<!--
+The waving hand emoji 👋 is the most reliable "waving" animation for GitHub READMEs,
+as CSS/HTML animation will not render on github.com. The emoji displays in color and looks friendly!
+-->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43C6AC&width=435&lines=Biology+Enthusiast+%F0%9F%A7%AC;Bioinformatics+Explorer+%F0%9F%AA%A0;Coding+Life+%F0%9F%92%BB+%2B+%F0%9F%A7%AE+%3D+%F0%9F%A7%A1" alt="Animated typing" />
