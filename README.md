@@ -1,22 +1,7 @@
 <h1 align="center">
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" width="36px" alt="🧬"/>
-  Hi, I'm Arnab Mukherjee!
-  <span style="display:inline-block; animation:waving-hand 2s infinite;">👋</span>
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f331.png" width="36px" alt="🌱"/>
+  Hi, I'm Arnab Mukherjee! <span>👋</span> 🌱
 </h1>
-
-<style>
-@keyframes waving-hand {
-  0% { transform: rotate(0deg);}
-  10% { transform: rotate(14deg);}
-  20% { transform: rotate(-8deg);}
-  30% { transform: rotate(14deg);}
-  40% { transform: rotate(-4deg);}
-  50% { transform: rotate(10deg);}
-  60% { transform: rotate(0deg);}
-  100% { transform: rotate(0deg);}
-}
-</style>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43C6AC&width=435&lines=Biology+Enthusiast+%F0%9F%A7%AC;Bioinformatics+Explorer+%F0%9F%AA%A0;Coding+Life+%F0%9F%92%BB+%2B+%F0%9F%A7%AE+%3D+%F0%9F%A7%A1" alt="Animated typing" />
@@ -48,7 +33,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
 ![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-green?style=for-the-badge&logo=databricks)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
-![SLURM](https://img.shields.io/badge/-SLURM-2D2D2D?logo=slurm&logoColor=white&style=for-the-badge)
+![SLURM](https://img.shields.io/badge/-SLURM-2D2D2D?style=for-the-badge)
 ![PBS](https://img.shields.io/badge/-PBS-00599C?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
