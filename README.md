@@ -1,9 +1,9 @@
 <!-- Fancy GitHub Profile README for arnabmukho -->
 
 <h1 align="center">
+  <span>👋</span>
+  Hi, I'm Arnab Mukherjee!
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" width="36px" alt="🧬"/>
-  Hi, I'm Arnab Mukherjee! <span>👋</span>
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f52c.png" width="36px" alt="🔬"/>
 </h1>
 
 <!--
@@ -22,7 +22,7 @@ as CSS/HTML animation will not render on github.com. The emoji displays in color
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43C6AC&width=435&lines=Biology+Enthusiast+%F0%9F%A7%AC;Bioinformatics+Explorer+%F0%9F%AA%A0;Coding+Life+%F0%9F%92%BB+%2B+%F0%9F%A7%AE+%3D+%F0%9F%A7%A1" alt="Animated typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43C6AC&width=435&lines=Biology+Enthusiast+%F0%9F%A7%AC;Computational+Biologist+%F0%9F%96%A5%EF%B8%8F;Coding+Life+%F0%9F%92%BB+%2B+%F0%9F%A7%AE+%3D+%F0%9F%A7%A1" alt="Animated typing" />
 </p>
 
 ---
@@ -39,10 +39,9 @@ as CSS/HTML animation will not render on github.com. The emoji displays in color
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
-![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-green?style=for-the-badge&logo=databricks)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
 ![SLURM](https://img.shields.io/badge/-SLURM-2D2D2D?style=for-the-badge)
-![PBS](https://img.shields.io/badge/-PBS-00599C?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
 ---
