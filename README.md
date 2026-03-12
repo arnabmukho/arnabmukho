@@ -1,23 +1,15 @@
-<!-- Fancy GitHub Profile README for arnabmukho -->
-
 <h1 align="center">
   <span>👋</span>
-  Hi, Arnab Here!
+  Hey, I'm Arnab!
   <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" width="36px" alt="🧬"/>
 </h1>
 
-<!--
-The waving hand emoji 👋 is the most reliable "waving" animation for GitHub READMEs,
-as CSS/HTML animation will not render on github.com. The emoji displays in color and looks friendly!
--->
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f52c.png" width="32px" alt="🔬"/> <!-- Microscope -->
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ea.png" width="32px" alt="🧪"/> <!-- Test Tubes -->
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9eb.png" width="32px" alt="🧫"/> <!-- Petri Dish -->
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" width="32px" alt="🧬"/> <!-- DNA -->
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f5a5.png" width="32px" alt="🖥️"/> <!-- Laptop -->
-  <!-- Animated small molecules/peptides for bio touch -->
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f52c.png" width="32px" alt="🔬"/>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ea.png" width="32px" alt="🧪"/>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9eb.png" width="32px" alt="🧫"/>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" width="32px" alt="🧬"/>
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f5a5.png" width="32px" alt="🖥️"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=0&color=6BFFB8&center=true&vCenter=true&width=120&lines=ATP;NADH;Cofactor;Heme;Peptide;DNA" alt="Molecule Animation" />
 </p>
 
@@ -29,12 +21,13 @@ as CSS/HTML animation will not render on github.com. The emoji displays in color
 
 ## 🦠 About Me
 
-- 🧬 I’m passionate about **Computational Biology**, **Bioinformatics**, **Cancer Epigenomics**, and **Science Communication**!
-- 🧬 Exploring the intersection of molecules, proteins, and code.
+I'm a biology enthusiast who got hooked on writing code to make sense of the chaos inside cells. Most of my time goes into **Computational Biology** and **Bioinformatics** — trying to figure out what genes, proteins, and epigenetic marks are up to, especially in the context of **Cancer Epigenomics**.
+
+I genuinely enjoy breaking down complex science for a broader audience, so **Science Communication** is something I care a lot about too. If you want to geek out over molecules, pipelines, or data — feel free to reach out!
 
 ---
 
-## 🍃 Tech Stack
+## 🍃 Tools I Work With
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)
@@ -46,7 +39,7 @@ as CSS/HTML animation will not render on github.com. The emoji displays in color
 
 ---
 
-## 🧬 Connect with Me
+## 🧬 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arnabmukho" target="_blank">
